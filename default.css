@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+
+h1{
+    color: blue;
+    font-size: 24;
+    position: absolute; top: 2px; left: 500px;
+}
+
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: green;
+}
+
+p{
+    font-size: 16x;
+    color: bluviolet;
+}
+
