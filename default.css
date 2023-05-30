@@ -8,6 +8,10 @@ h1{
     position: absolute; top: 2px; left: 500px;
 }
 
+h4{
+    color: red;
+    font-size: 20;
+}
 
 a:link{
     color: blue;
